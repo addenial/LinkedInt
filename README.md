@@ -6,8 +6,11 @@ Modified by @vysecurity
 
 # Requirements
 ```
-pip install beautifulsoup4
-pip install thready
+
+python2.7 -m pip install beautifulsoup4
+python2.7 -m pip install thready
+python2.7 -m pip install requests
+python2.7 -m pip install bs4
 ```
 
 # Change Log
